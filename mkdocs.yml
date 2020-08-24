@@ -9,6 +9,8 @@ nav:
     - '术语': terminology.md
     - '工作流程': workflow.md
     - '表示': representation.md
+    - '工具':
+      - 'Scipy': software/scipy.md
     - '自然语言处理':
       - 'WordNet': nlp/wordnet.md
       - 'VerbNet': nlp/verbnet.md
